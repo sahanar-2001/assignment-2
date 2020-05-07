@@ -20,7 +20,7 @@ div{
     border: 2px double rgb(0, 0, 0);
     margin-top: 10px;
     width: 100%;
-    height: auto;
+    height:auto;
     background-color: rgb(173,216,230);
     position: relative;
 }
